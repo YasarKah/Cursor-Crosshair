@@ -1,0 +1,22 @@
+.Y {
+	/* Yatay */
+	position: fixed;
+	width: 100%;
+	height: 1px;
+	color: #e91e63;
+	z-index: 9999;
+	pointer-events:none;
+  border: 1px solid;
+}
+
+.X {
+	/* Dikey */
+	position: fixed;
+	top: 0px;
+	width: 1px;
+	height: 100%;
+	color: #e91e63;
+  z-index: 9999;
+	pointer-events:none;
+  border: 1px solid;
+}
